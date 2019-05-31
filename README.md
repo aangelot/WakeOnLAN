@@ -1,6 +1,6 @@
 ## Wake a computer and a video projector with a push button, using Wake on LAN and HDMI-CEC
 
-### Hardware
+### Hardware
 For this project we used : 
 * a feather huzzah (https://www.adafruit.com/product/2821)
 * a ethernet shield for feather (https://www.adafruit.com/product/3201)
