@@ -3,10 +3,8 @@
 
 // Enter a MAC address and IP address for your controller below.
 // The IP address will be dependent on your local network:
-byte mac[] = {
-  0x98, 0x76, 0xB6, 0x11, 0x1F, 0x20
-}; // depends on the ethernet shield 
-byte target_mac[] = {0x94, 0xC6, 0x91, 0x17, 0x6D, 0x5C}; //depends on the target PC
+byte mac[] = { 0x??, 0x??, 0x??, 0x??, 0x??, 0x?? }; // DEPENDS ON THE ETHERNET SHIELD 
+byte target_mac[] = {0x??, 0x??, 0x??, 0x??, 0x??, 0x??}; //DEPENDS ON THE TARGET PC
 byte gateway[] = {192,168,1,1};
 byte subnet[] = {255,255,255,0};
 IPAddress ip(192,168,1,133);
